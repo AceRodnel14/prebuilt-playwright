@@ -1,0 +1,9 @@
+{
+    "name": "prebuilt-playwright",
+    "version": "1.0.0",
+    "dependencies": {
+        "@playwright/test": "^1.58.2",
+        "playwright": "^1.58.2",
+        "@types/node": "^25.5.0"
+    }
+}
